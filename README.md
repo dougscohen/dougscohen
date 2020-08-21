@@ -7,7 +7,10 @@
   <img align="left" alt="Doug's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
 <a href="https://twitter.com/dougscohen3">
-  <img align="left" alt="Mehdi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Doug's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://twitter.com/dougscohen3">
+  <img align="left" alt="Doug's Portfolio" width="22px" src="https://image.flaticon.com/icons/svg/598/598229.svg" />
 </a>
 
 <br />
