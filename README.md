@@ -40,6 +40,6 @@ What up! I am a Data Scientist who is fluent in Python and loves to create visua
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=dougscohen&show_icons=true&hide_border=true)
+![Doug's github stats](https://github-readme-stats.vercel.app/api?username=dougscohen&show_icons=true&hide_border=true)
 
 ⭐️ From [dougscohen](https://github.com/dougscohen)
