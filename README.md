@@ -16,13 +16,12 @@
 <br />
 <br />
 
-What up! I am an aspiring Data Scientist who is fluent in Python and loves to create visualizations 📊. I am easy to work with, organized, and prompt💯. I love sports ⚽🏀, labrador retrievers 🐕, and I'm super competitive 🏆, especially when it comes to Settlers of Catan 🎲 and college football 🏈. 
+What up! I am a Data Scientist who is fluent in Python and loves to create visualizations 📊. I am easy to work with, organized, and prompt💯. I love sports ⚽🏀, labrador retrievers 🐕, and I'm super competitive 🏆, especially when it comes to Settlers of Catan 🎲 and college football 🏈. 
 
   <img align="right" alt="GIF" src="https://media0.giphy.com/media/mW05nwEyXLP0Y/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning AWS 
 - 🤔 My interests are with Data Viz & Machine Learning
 - 💬 Ask me about anything about sports
 - 📫 How to reach me: [LinkedIn & Email](https://www.linkedin.com/in/dougcohen3/detail/contact-info/)
