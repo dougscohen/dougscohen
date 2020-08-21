@@ -9,7 +9,7 @@
 <a href="https://twitter.com/dougscohen3">
   <img align="left" alt="Doug's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://twitter.com/dougscohen3">
+<a href="https://dougscohen.github.io/">
   <img align="left" alt="Doug's Portfolio" width="22px" src="https://image.flaticon.com/icons/svg/598/598229.svg" />
 </a>
 
