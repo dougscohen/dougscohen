@@ -16,7 +16,7 @@
 <br />
 <br />
 
-What up! I am an aspiring Data Scientist who is fluent in Python and loves to create visualizations 📊. As a team member, I am easy to work with, organized, and prompt💯. As a human, I love sports ⚽🏀, labrador retrievers 🐕, and I'm super competitive 🏆, especially when it comes to Settlers of Catan 🎲 and college football 🏈. 
+What up! I am an aspiring Data Scientist who is fluent in Python and loves to create visualizations 📊. I am easy to work with, organized, and prompt💯. I love sports ⚽🏀, labrador retrievers 🐕, and I'm super competitive 🏆, especially when it comes to Settlers of Catan 🎲 and college football 🏈. 
 
   <img align="right" alt="GIF" src="https://media0.giphy.com/media/mW05nwEyXLP0Y/giphy.gif" />
 
